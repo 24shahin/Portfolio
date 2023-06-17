@@ -57,12 +57,20 @@ body{
 	}
   }
 /* preloader end */
+.navbar-toggler:focus {
+	text-decoration: none;
+	outline: 0;
+	box-shadow:none;
+}
+.navbar-toggler {
+	border: none;
+}
 .nav_back{
 	position: fixed;
 	width: 100%;
 	z-index: 99999;
 	background-color: #fff;
-	height: 80px;
+	padding-top:20px
 }
 .nav_back .logo{
 	position: relative;
