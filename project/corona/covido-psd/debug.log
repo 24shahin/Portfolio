@@ -1,0 +1,32 @@
+[1213/190349.185:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/190354.189:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/190459.544:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/190459.778:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/190459.810:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/190501.006:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/192550.458:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[1213/192550.742:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1213/192751.935:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/204509.775:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/205935.827:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/230202.344:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1214/200026.659:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1214/201952.108:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1214/202537.891:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1214/204839.104:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1214/204844.122:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1214/205355.527:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1214/210651.827:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1214/211725.301:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1214/213752.343:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1214/213757.350:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1214/214251.229:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1214/220935.945:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1214/221033.267:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1215/012845.781:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
