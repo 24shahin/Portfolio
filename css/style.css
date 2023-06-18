@@ -1422,6 +1422,7 @@ border-bottom: 3px dashed #994848;
 	}
 	100%{
 		transform: translateX(50%);
+		overflow-x: hidden;
 	}
 }
 #footer .copyright{
