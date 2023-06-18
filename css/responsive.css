@@ -1,26 +1,32 @@
 @media (min-width: 320px) and (max-width: 767.98px){
-	
-    .nav_back .navbar-toggler{
-        margin-left: auto;
+    .navbar-toggler {
+        border: none;
+        font-size: 18px;
     }
     .nav_back .navbar-toggler i{
         color: #a43a3a !important;
-	font-size: 24px;
+    }
+    .vidbacking-active-body-back {
+	   top: 38%;
+    }
+    .video-back {
+	   padding: 100px 0px 64px 0px;
+    }
+    .navbar-toggler:focus {
+	   box-shadow: none;
     }
     .navbar-brand {
-	height: 36px;
-	position:static;
-	z-index: 3333;
-	width: auto;
-	display: inline-block;
-	margin: 0;
-	padding: 0;
-}
+        height: 36px;
+        position:static;
+        z-index: 3333;
+        width: auto;
+        display: inline-block;
+    }
 	:root {
-	 --black-blue-light:none
+	 --black-blue-light:none;
     }
 	.nav_back ul{
-		margin-top:40px;
+		margin-top:10px;
 	}
 	.nav_back ul li{
         padding: 0 6px;
@@ -55,6 +61,10 @@
         text-align: center;
         margin-left: -16px;
     }
+    .banner {
+        background: #fff;
+        padding: 20px 0px 50px;
+}
     .banner_text {
         padding-left: 10px;
     }
@@ -68,6 +78,7 @@
 }
 	.bac_img {
         margin-top: 20px;
+        overflow: hidden;
     }
     .but_img .but_png1 {
         display: none;
@@ -79,7 +90,7 @@
         width: 100%;
     }
     .but_img .but_png img{
-        width: 80%
+        width: 80%;
     }
     #resume .png2,
     #resume .png3,
@@ -148,6 +159,9 @@
 	font-size: 41px;
 	font-weight: 500;
 }
+    #project .project_item {
+	row-gap: 30px;
+}
 #foter .foter_head_inn h2 {
 	font-size: 20px;
 	font-weight: 400;
@@ -166,7 +180,7 @@
 	padding:0
 }
 #service {
-    padding:0
+    padding:10px 0 30px;
 }
 .progress_inn {
 	box-shadow: 1px 1px 9px 1px #ff000094;
@@ -434,7 +448,4 @@
     #foter .massage h2 {
         padding-left: 20px;
     }
-
-
-
  }
