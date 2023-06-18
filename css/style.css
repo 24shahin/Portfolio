@@ -1396,6 +1396,7 @@ border-bottom: 3px dashed #994848;
 .foter_wave{
 	position: relative;
 	background: #000;
+	overflow-x: hidden;
 }
 .foter_wave .wave2,
 .foter_wave .wave3,
