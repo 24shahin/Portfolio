@@ -57,20 +57,12 @@ body{
 	}
   }
 /* preloader end */
-.navbar-toggler:focus {
-	text-decoration: none;
-	outline: 0;
-	box-shadow:none;
-}
-.navbar-toggler {
-	border: none;
-}
 .nav_back{
 	position: fixed;
 	width: 100%;
 	z-index: 99999;
-	background-color: #fff;
-	padding-top:20px
+	background-color: #f4f4f4;
+	padding: 20px 0;
 }
 .nav_back .logo{
 	position: relative;
@@ -1083,7 +1075,8 @@ border-bottom: 3px dashed #994848;
 }
 #project .project_item{
 	display: flex;
-	gap: 33px;
+	row-gap: 20px;
+	column-gap: 30px;
 }
 #project .project_img{
 	position: relative;
@@ -1436,5 +1429,4 @@ border-bottom: 3px dashed #994848;
 #footer .copyright .fot_span{
 	color: #600505	
 }
-
 /* ffoter part end */
