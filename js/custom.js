@@ -58,7 +58,7 @@ $(function(){
   });
   $('.counter').counterUp({
     delay: 10,
-    time: 1000
+    time: 2000
   });
   $(".send").click(function(){
     $(".drop_mail").toggle(500)
